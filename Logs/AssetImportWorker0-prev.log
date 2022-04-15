@@ -1,0 +1,495 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.3f1 (76626098c1c4) revision 7758432'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19044.1645; Version 2009; 64bit' Language: 'en' Physical Memory: 16321 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity 2020.3.3f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Repos/svn/Projects/Unity/Ultima7HD
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+62860
+Successfully changed project path to: C:/Repos/svn/Projects/Unity/Ultima7HD
+C:/Repos/svn/Projects/Unity/Ultima7HD
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 178.86 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.3f1 (76626098c1c4)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity 2020.3.3f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Repos/svn/Projects/Unity/Ultima7HD/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1060 3GB (ID=0x1c02)
+    Vendor:   
+    VRAM:     2988 MB
+    Driver:   30.0.15.1215
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity 2020.3.3f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity 2020.3.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity 2020.3.3f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56668
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity 2020.3.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002448 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 243.45 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.253 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002587 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 2.34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.818 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 2.06 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1127 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 139.1 MB.
+System memory in use after: 139.1 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1584.
+Total: 1.754400 ms (FindLiveObjects: 0.172700 ms CreateObjectMapping: 0.051700 ms MarkObjects: 1.406500 ms  DeleteObjects: 0.122500 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/SFS_VoxelNature/Textures/SFS_VoxelNature_Texture_Dirt1.png
+  artifactKey: Guid(bd26f5f2574bda541a79d2dc12eed3b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SFS_VoxelNature/Textures/SFS_VoxelNature_Texture_Dirt1.png using Guid(bd26f5f2574bda541a79d2dc12eed3b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15a23b55ab52594f2cf4ae563b88bd99') in 0.072296 seconds
+  Import took 0.081255 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/SFS_VoxelNature/Textures/SFS_VoxelNature_Texture_Grass1.png
+  artifactKey: Guid(4ae0dbaae2ac0a3419b7aae52e1aafd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SFS_VoxelNature/Textures/SFS_VoxelNature_Texture_Grass1.png using Guid(4ae0dbaae2ac0a3419b7aae52e1aafd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbaa6e06b8ef8163856662e9722f3375') in 0.014205 seconds
+  Import took 0.017577 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/SFS_VoxelNature/Textures/SFS_VoxelNature_Texture_Grass0Dirt1.png
+  artifactKey: Guid(f73b7f70dda4e27478d396f9328779eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SFS_VoxelNature/Textures/SFS_VoxelNature_Texture_Grass0Dirt1.png using Guid(f73b7f70dda4e27478d396f9328779eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5373128a14ee68ea9849b11d7a3c21e') in 0.011054 seconds
+  Import took 0.015030 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/SFS_VoxelNature/Textures/SFS_VoxelNature_Texture_Grass1Dirt1.png
+  artifactKey: Guid(ec07be24d427c9b408aea60c43fa5278) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SFS_VoxelNature/Textures/SFS_VoxelNature_Texture_Grass1Dirt1.png using Guid(ec07be24d427c9b408aea60c43fa5278) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc25d15da1936c412659de79a6c77fab') in 0.010548 seconds
+  Import took 0.014611 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/SFS_VoxelNature/Textures/SFS_VoxelNature_Texture_Grass0.png
+  artifactKey: Guid(d9181922eecdea04594ad1f6efddcfaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SFS_VoxelNature/Textures/SFS_VoxelNature_Texture_Grass0.png using Guid(d9181922eecdea04594ad1f6efddcfaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90d39c43d149b0186453a449fcd6228a') in 0.011137 seconds
+  Import took 0.015808 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.723123 seconds.
+  path: Assets/SFS_VoxelNature/Textures/SFS_VoxelNature_Texture_Grass2.png
+  artifactKey: Guid(ccb5f23f3b32b7d4eabda6da90eae79d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SFS_VoxelNature/Textures/SFS_VoxelNature_Texture_Grass2.png using Guid(ccb5f23f3b32b7d4eabda6da90eae79d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a16ca00b3e38a8df38a389c2fe7a5468') in 0.013668 seconds
+  Import took 0.017191 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/SFS_VoxelNature/Textures/SFS_VoxelNature_Texture_Grass3Dirt1.png
+  artifactKey: Guid(e5a01738a7fd7ea48aa5799a384be5a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SFS_VoxelNature/Textures/SFS_VoxelNature_Texture_Grass3Dirt1.png using Guid(e5a01738a7fd7ea48aa5799a384be5a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4374cd48c048e8037a323830ba476eb0') in 0.013381 seconds
+  Import took 0.017265 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/SFS_VoxelNature/Textures/SFS_WaterFoam.png
+  artifactKey: Guid(071a423f977a39747922621ee88cfb2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SFS_VoxelNature/Textures/SFS_WaterFoam.png using Guid(071a423f977a39747922621ee88cfb2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d4faf05fa899f659551e83980264c13') in 0.014680 seconds
+  Import took 0.018283 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/SFS_VoxelNature/Textures/SFS_VoxelNature_Texture_Grass4Dirt1.png
+  artifactKey: Guid(400fe87a2095a4c4db713a6a20e0b6ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SFS_VoxelNature/Textures/SFS_VoxelNature_Texture_Grass4Dirt1.png using Guid(400fe87a2095a4c4db713a6a20e0b6ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a931da1aad8b696eeaf501c104e10e3') in 0.014410 seconds
+  Import took 0.017714 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/SFS_VoxelNature/Textures/WaterNormals.png
+  artifactKey: Guid(4abbdacd16db5ca49ae3fe4defd7bab6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SFS_VoxelNature/Textures/WaterNormals.png using Guid(4abbdacd16db5ca49ae3fe4defd7bab6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4be0713f4b5ae208b05c5aefeca529cc') in 0.026681 seconds
+  Import took 0.030357 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/SFS_VoxelNature/Textures/SFS_WindNoise.png
+  artifactKey: Guid(f3bce3b2128bbdb46aaa20cbdbb834f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SFS_VoxelNature/Textures/SFS_WindNoise.png using Guid(f3bce3b2128bbdb46aaa20cbdbb834f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '804a3e76af53e25c7305d79c8e9caec0') in 0.017476 seconds
+  Import took 0.020895 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/SFS_VoxelNature/Textures/SFS_VoxelNature_Texture_Grass4.png
+  artifactKey: Guid(e996e0d3cf180ab4aac55df8f829b463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SFS_VoxelNature/Textures/SFS_VoxelNature_Texture_Grass4.png using Guid(e996e0d3cf180ab4aac55df8f829b463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cd1047a99faae75da60be7ee1a7d5e1') in 0.013460 seconds
+  Import took 0.016997 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/SFS_VoxelNature/Textures/SFS_VoxelNature_Texture_Rock1.png
+  artifactKey: Guid(9222b9606ecd14148b6f441d4d0200a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SFS_VoxelNature/Textures/SFS_VoxelNature_Texture_Rock1.png using Guid(9222b9606ecd14148b6f441d4d0200a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '193201309a2688d92bd87d7c4adea987') in 0.014491 seconds
+  Import took 0.018373 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/SFS_VoxelNature/Textures/SFS_VoxelNature_Texture_Grass5Dirt1.png
+  artifactKey: Guid(2a7d386791f0e7241ab0a3651b484ea1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SFS_VoxelNature/Textures/SFS_VoxelNature_Texture_Grass5Dirt1.png using Guid(2a7d386791f0e7241ab0a3651b484ea1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3aa80e45b14908f36e404b7189a85f5') in 0.013423 seconds
+  Import took 0.017655 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000352 seconds.
+  path: Assets/SFS_VoxelNature/Textures/SFS_VoxelNature_Texture_Grass5.png
+  artifactKey: Guid(589e06c519bca5845a12bcbc3810c24b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SFS_VoxelNature/Textures/SFS_VoxelNature_Texture_Grass5.png using Guid(589e06c519bca5845a12bcbc3810c24b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8ff667f6d81f418e9e0c86ff4700086') in 0.014599 seconds
+  Import took 0.018291 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/SFS_VoxelNature/Textures/SFS_VoxelNature_Texture_Grass3.png
+  artifactKey: Guid(5d55ba2848ac30f4cb29b04556dfeb66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SFS_VoxelNature/Textures/SFS_VoxelNature_Texture_Grass3.png using Guid(5d55ba2848ac30f4cb29b04556dfeb66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f700b5edd36d4074b22339ad2441bfa8') in 0.013393 seconds
+  Import took 0.017767 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/SFS_VoxelNature/Textures/SFS_VoxelNature_Texture_SandNormals.png
+  artifactKey: Guid(7cbf164476d009a46b6931256beeb7ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SFS_VoxelNature/Textures/SFS_VoxelNature_Texture_SandNormals.png using Guid(7cbf164476d009a46b6931256beeb7ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1429aeaa918a6dba15b1990c7c914ffb') in 0.038199 seconds
+  Import took 0.041803 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/SFS_VoxelNature/Textures/SFS_VoxelNature_Texture_Grass2Dirt1.png
+  artifactKey: Guid(a2b923d6ab50a714ea7878e18bdc414b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SFS_VoxelNature/Textures/SFS_VoxelNature_Texture_Grass2Dirt1.png using Guid(a2b923d6ab50a714ea7878e18bdc414b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c18f4965e34fc56c8e3608c5c1e11e86') in 0.013087 seconds
+  Import took 0.016504 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/SFS_VoxelNature/Textures/SFS_VoxelNature_Texture_Sand1.png
+  artifactKey: Guid(e1f3109317db12a4bbe9f2b83864a86b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SFS_VoxelNature/Textures/SFS_VoxelNature_Texture_Sand1.png using Guid(e1f3109317db12a4bbe9f2b83864a86b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6cb4bbb9a261a614eb0e1dbcf0303774') in 0.013374 seconds
+  Import took 0.016908 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.443152 seconds.
+  path: Assets/SFS_VoxelNature/Textures/U7grass.png
+  artifactKey: Guid(f189871193c7bfc4088140cb77eed840) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SFS_VoxelNature/Textures/U7grass.png using Guid(f189871193c7bfc4088140cb77eed840) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f7aa5e79b17f8684f47482cb8aeb656') in 0.010871 seconds
+  Import took 0.015313 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004312 seconds.
+  path: Assets/SFS_VoxelNature/Textures/U7grass.png
+  artifactKey: Guid(f189871193c7bfc4088140cb77eed840) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SFS_VoxelNature/Textures/U7grass.png using Guid(f189871193c7bfc4088140cb77eed840) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f7aa5e79b17f8684f47482cb8aeb656') in 0.012438 seconds
+  Import took 0.016755 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.087350 seconds.
+  path: Assets/SFS_VoxelNature/Textures/U7grass.png
+  artifactKey: Guid(f189871193c7bfc4088140cb77eed840) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SFS_VoxelNature/Textures/U7grass.png using Guid(f189871193c7bfc4088140cb77eed840) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e790de958a057d0ae009e85189a79790') in 0.010493 seconds
+  Import took 0.014753 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23857.334284 seconds.
+  path: Assets/SFS_VoxelNature/Textures/ultima7sidewalk.png
+  artifactKey: Guid(390fdc7d744235b45849a41d445c8a8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SFS_VoxelNature/Textures/ultima7sidewalk.png using Guid(390fdc7d744235b45849a41d445c8a8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7eb8926b754c87a6419925331cdc14e9') in 0.047598 seconds
+  Import took 0.093541 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2762.223587 seconds.
+  path: Assets/Textures/U7WoodSide2x1.png
+  artifactKey: Guid(5bcef02ba6d63054a9a45bdc6ee91e0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/U7WoodSide2x1.png using Guid(5bcef02ba6d63054a9a45bdc6ee91e0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c29de2ff37286d55fb2dfc5fcbaf174f') in 0.022575 seconds
+  Import took 0.036188 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.193037 seconds.
+  path: Assets/Textures/U7WoodSide2x1.png
+  artifactKey: Guid(5bcef02ba6d63054a9a45bdc6ee91e0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/U7WoodSide2x1.png using Guid(5bcef02ba6d63054a9a45bdc6ee91e0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92b6041b493c27268053753b0d05653e') in 0.007114 seconds
+  Import took 0.011622 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002506 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.94 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.845 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 2.16 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1117 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.6 MB.
+System memory in use after: 141.6 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1595.
+Total: 2.484600 ms (FindLiveObjects: 0.206700 ms CreateObjectMapping: 0.055500 ms MarkObjects: 2.124600 ms  DeleteObjects: 0.096600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 684.629212 seconds.
+  path: Assets/Prefabs/Wood_Wall_2x1.prefab
+  artifactKey: Guid(81d2fbecc4884eb4c9906d0f65ae7398) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Wood_Wall_2x1.prefab using Guid(81d2fbecc4884eb4c9906d0f65ae7398) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e9cde3b14712a9b4232ae46b280775d') in 0.086504 seconds
+  Import took 0.094970 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1239.815351 seconds.
+  path: Assets/Textures/U7woodside1x1.png
+  artifactKey: Guid(4dd7dad989b585b4581393979d2054b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/U7woodside1x1.png using Guid(4dd7dad989b585b4581393979d2054b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3bb6c0f91b6fd761618b615a4e14dee') in 0.018109 seconds
+  Import took 0.023506 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.544484 seconds.
+  path: Assets/Textures/u7wood1x1top.png
+  artifactKey: Guid(85254c4f19db6c742a604b5256078d23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/u7wood1x1top.png using Guid(85254c4f19db6c742a604b5256078d23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94ef67736e179fcbd15c7f831dadd7ad') in 0.016169 seconds
+  Import took 0.020575 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.191866 seconds.
+  path: Assets/Prefabs/New Prefab.prefab
+  artifactKey: Guid(dae18f702a44b514cbbfebc616e50494) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/New Prefab.prefab using Guid(dae18f702a44b514cbbfebc616e50494) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '996bee84fe7622c32a3b22f3f45851f4') in 0.007749 seconds
+  Import took 0.012618 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.543575 seconds.
+  path: Assets/Prefabs/Wood_Wall_1x1.prefab
+  artifactKey: Guid(dae18f702a44b514cbbfebc616e50494) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Wood_Wall_1x1.prefab using Guid(dae18f702a44b514cbbfebc616e50494) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b00174d41c0355d6210c948813547f6') in 0.007908 seconds
+  Import took 0.012380 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 48.157290 seconds.
+  path: Assets/Textures/u7wood1x1top.png
+  artifactKey: Guid(85254c4f19db6c742a604b5256078d23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/u7wood1x1top.png using Guid(85254c4f19db6c742a604b5256078d23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1726870e7ccc0e37a2da127f5ffb88d') in 0.006457 seconds
+  Import took 0.009697 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002563 seconds.
+  path: Assets/Textures/u7wood1x1top.png
+  artifactKey: Guid(85254c4f19db6c742a604b5256078d23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/u7wood1x1top.png using Guid(85254c4f19db6c742a604b5256078d23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1726870e7ccc0e37a2da127f5ffb88d') in 0.005144 seconds
+  Import took 0.009437 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.434708 seconds.
+  path: Assets/Textures/U7woodside1x1.png
+  artifactKey: Guid(4dd7dad989b585b4581393979d2054b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/U7woodside1x1.png using Guid(4dd7dad989b585b4581393979d2054b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5547eb2a47a0c7d0b4b1e11edbc570d') in 0.006780 seconds
+  Import took 0.011585 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005040 seconds.
+  path: Assets/Textures/U7woodside1x1.png
+  artifactKey: Guid(4dd7dad989b585b4581393979d2054b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/U7woodside1x1.png using Guid(4dd7dad989b585b4581393979d2054b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5547eb2a47a0c7d0b4b1e11edbc570d') in 0.008313 seconds
+  Import took 0.013001 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 71.583678 seconds.
+  path: Assets/Textures/U7woodside1x1 1.png
+  artifactKey: Guid(de46c40ccb9feec40952bf0d43f89453) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/U7woodside1x1 1.png using Guid(de46c40ccb9feec40952bf0d43f89453) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4de01c3340e082f468d0d3a98da134dc') in 0.011123 seconds
+  Import took 0.015965 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.985821 seconds.
+  path: Assets/Textures/U7woodside1x1 1.png
+  artifactKey: Guid(de46c40ccb9feec40952bf0d43f89453) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/U7woodside1x1 1.png using Guid(de46c40ccb9feec40952bf0d43f89453) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '711a1cea206b7877488410d171f08ffb') in 0.007642 seconds
+  Import took 0.011259 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002339 seconds.
+  path: Assets/Textures/U7woodside1x1 1.png
+  artifactKey: Guid(de46c40ccb9feec40952bf0d43f89453) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/U7woodside1x1 1.png using Guid(de46c40ccb9feec40952bf0d43f89453) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '711a1cea206b7877488410d171f08ffb') in 0.005411 seconds
+  Import took 0.009085 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 60.123176 seconds.
+  path: Assets/Prefabs/Wood_Wall_1x1.prefab
+  artifactKey: Guid(dae18f702a44b514cbbfebc616e50494) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Wood_Wall_1x1.prefab using Guid(dae18f702a44b514cbbfebc616e50494) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1bd5bfdca9e4b2d943953c3bd4c82af') in 0.013597 seconds
+  Import took 0.018810 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.217016 seconds.
+  path: Assets/Prefabs/Wood_Wall_2x1.prefab
+  artifactKey: Guid(81d2fbecc4884eb4c9906d0f65ae7398) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Wood_Wall_2x1.prefab using Guid(81d2fbecc4884eb4c9906d0f65ae7398) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '511227e7147ce8c1d2bc28094012be9f') in 0.017678 seconds
+  Import took 0.021645 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003479 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 2.14 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.956 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 2.17 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1117 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.7 MB.
+System memory in use after: 141.8 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1608.
+Total: 1.728600 ms (FindLiveObjects: 0.135700 ms CreateObjectMapping: 0.043100 ms MarkObjects: 1.483100 ms  DeleteObjects: 0.065300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002889 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 2.60 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.975 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.99 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1117 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.7 MB.
+System memory in use after: 141.8 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1611.
+Total: 2.930800 ms (FindLiveObjects: 0.266100 ms CreateObjectMapping: 0.085800 ms MarkObjects: 2.414500 ms  DeleteObjects: 0.162800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1824.973450 seconds.
+  path: Assets/Textures/u7woodfloor.png
+  artifactKey: Guid(aa3bc57e2b136114a860377741887591) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/u7woodfloor.png using Guid(aa3bc57e2b136114a860377741887591) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a67f3c6ce2faba93163d25d88bfc3a8d') in 0.054935 seconds
+  Import took 0.071384 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 43.708683 seconds.
+  path: Assets/Textures/u7woodfloor.png
+  artifactKey: Guid(aa3bc57e2b136114a860377741887591) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/u7woodfloor.png using Guid(aa3bc57e2b136114a860377741887591) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1bd711f630a99f62bd93ed9660702fe6') in 0.006219 seconds
+  Import took 0.010184 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003729 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 2.76 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.001 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 2.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1117 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.7 MB.
+System memory in use after: 141.8 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1614.
+Total: 2.110400 ms (FindLiveObjects: 0.293900 ms CreateObjectMapping: 0.206400 ms MarkObjects: 1.547900 ms  DeleteObjects: 0.060600 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
